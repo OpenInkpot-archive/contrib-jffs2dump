@@ -3,7 +3,7 @@
 #
 # jffs2-dump - JFFS2 userspace dumper tool
 #
-# Copyright © 2009 Igor Skorchinsky
+# Copyright © 2009 Igor Skochinsky
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
